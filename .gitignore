@@ -1,0 +1,4 @@
+benchmark_gpu
+benchmark_pesado
+*.o
+*.out
